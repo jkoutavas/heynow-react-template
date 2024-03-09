@@ -8,5 +8,6 @@ Based on [Setting up React + TypeScript + webpack app from scratch without creat
 
 This template uses:
 
+- React 18
 - Typescript
 - yarn
