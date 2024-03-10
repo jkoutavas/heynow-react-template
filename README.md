@@ -11,3 +11,4 @@ This template uses:
 - React 18
 - Typescript
 - yarn
+- [Why Did You Render](https://github.com/welldone-software/why-did-you-render) debugging support
